@@ -1,0 +1,7 @@
+numpy==1.19.3
+Flask==2.0.2
+PyMySQL==0.10.1
+sklearn==0.0
+sklearn-crfsuite==0.3.6
+pythainlp==2.2.6
+python-crfsuite==0.9.7
